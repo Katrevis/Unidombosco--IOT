@@ -16,25 +16,15 @@ http://bit.ly/FAQ-UNIDBSCO
 
 Acesso para matriz curricular do curso Ciência de Dados e Inteligência Artificial:
 
-http://bit.ly/matriz-IoT-2021
+http://bit.ly/matriz-IoT-2022
 
 
 # Calendário 2021
-Segue o link para o Calendário de 2021
+Segue o link para o Calendário de 2022
 
-http://bit.ly/Cronograma-UNIDBSCO-2021
+http://bit.ly/Cronograma-UNIDBSCO-2022
 
-Abaixo alguns Deadlines importantes:
 
-06/06 - Entrega Estudo de Caso
-
-13/06 - Entrega Prova Eletrônica
-
-19/06 - Prova Presencial
-
-19/06 - Projeto Integrador
-
-10/07 - Prova Final
 
 # Agenda Google
 Link para agenda do Google! Sincronize as atividades em seu celular, notebook e e-mail!
